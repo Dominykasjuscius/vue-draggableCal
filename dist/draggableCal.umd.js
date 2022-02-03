@@ -2438,8 +2438,8 @@ var es6_regexp_split = __webpack_require__("28a5");
 // CONCATENATED MODULE: ./src/utils/CONSTANTS.js
 /* harmony default export */ var CONSTANTS = ({
   FR: {
-    DAYS: ['DIMANCHE', 'LUNDI', 'MARDI', 'MERCREDI', 'JEUDI', 'VENDREDI', 'SAMEDI'],
-    MONTHS: ['JANVIER', 'FEVRIER', 'MARS', 'AVRIL', 'MAI', 'JUIN', 'JUILLET', 'AOUT', 'SEPTEMBRE', 'OCTOBRE', 'NOVEMBRE', 'DECEMBRE']
+    DAYS: ['DIMANCHE', 'LUNDI', 'MARDI', 'MERCREDI', 'BRUH', 'VENDREDI', 'SAMEDI'],
+    MONTHS: ['JANVIER', 'FEVRIER', 'MARS', 'AVRIL', 'BRUH', 'JUIN', 'JUILLET', 'AOUT', 'SEPTEMBRE', 'OCTOBRE', 'NOVEMBRE', 'DECEMBRE']
   },
   EN: {
     DAYS: ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'],
